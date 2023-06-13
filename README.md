@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Prabhakar Rawat, here are few details about me.
+
+Linkedin profile: [view here](https://www.linkedin.com/in/prabhakarrawat/)
 #### EDUCATION
 
 ##### Data Science & Machine Learning Bootcamp, Jovian	(Oct 2022 - Ongoing)
