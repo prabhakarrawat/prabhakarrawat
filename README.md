@@ -22,7 +22,7 @@ B.Tech, Mechanical Engineering
 Courses: Thermodynamics, Fluid Mechanics, Heat transfer, Renewable energy, Power plant engineering
 
 #### PROJECTS
-##### Forecasting energy consumption of building using machine learning 
+##### Predicting energy consumption of building using machine learning 
 1. Cleaned and analyzed 20 million+ rows & 16 columns to predict the energy consumption of the building
 2. Trained linear models, random forests, and gradient-boosted trees using scikit-learn and XGBoost
 3.  Achieved RMSE of 0.31862 after hyperparameter tuning for XGBOOST model
