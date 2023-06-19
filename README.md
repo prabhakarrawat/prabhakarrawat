@@ -1,4 +1,6 @@
-# Hi 👋, I am Prabhakar Rawat from India and I am a beginner in the field of Data Science and Machine Learning
+# Hi 👋, I am Prabhakar Rawat from India
+
+##  I am enthusiastic about diving into the field of Data Science and Machine Learning, and I consider myself a beginner in this domain
 
 ### A short introduction about my background:
 
